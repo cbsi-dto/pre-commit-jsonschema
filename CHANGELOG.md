@@ -3,6 +3,7 @@
 ## Unreleased
 
 <!-- vendor-insert-here -->
+- Update vendored schemas (2022-05-16)
 
 ## 0.14.0
 
